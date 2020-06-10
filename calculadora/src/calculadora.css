@@ -1,0 +1,10 @@
+button {
+  width: 90%;
+  margin: 4px !important;
+}
+
+input[type=text] {
+  margin-top: 3px;
+  margin-left: 6px;
+  width: 96%;
+}
